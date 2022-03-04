@@ -1,8 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "users": [
+    { "id": 1, "name": "How to Start Investing in Stocks: A Beginner’s Guide" , "email":"Investing is a way to set aside money while you are busy with life and have that money work for you so that you can fully reap the rewards of your labor in the future. Investing is a means to a happier ending. Legendary investor Warren Buffett defines investing as “the process of laying out money now in the expectation of receiving more money in the future.”1 The goal of investing is to put your money to work in one or more types of investment vehicles in the hopes of growing your money over time."},
+    { "id": 2, "name": "Commissions and Fees", "email":"Investing is a way to set aside money while you are busy with life and have that money work for you so that you can fully reap the rewards of your labor in the future. Investing is a means to a happier ending. Legendary investor Warren Buffett defines investing as “the process of laying out money now in the expectation of receiving more money in the future.”1 The goal of investing is to put your money to work in one or more types of investment vehicles in the hopes of growing your money over time." },
+    { "id": 3, "name": "The Expert Opinion We Recommendation" , "email":"Investing is a way to set aside money while you are busy with life and have that money work for you so that you can fully reap the rewards of your labor in the future. Investing is a means to a happier ending. Legendary investor Warren Buffett defines investing as “the process of laying out money now in the expectation of receiving more money in the future.”1 The goal of investing is to put your money to work in one or more types of investment vehicles in the hopes of growing your money over time."}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
